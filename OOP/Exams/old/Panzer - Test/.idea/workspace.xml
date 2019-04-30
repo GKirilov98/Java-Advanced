@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d5e6d84-1fca-450c-821f-f4e3236c0767" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/panzer/AssemblerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-28">
+              <caret line="119" column="12" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#PartsImpl#0;class#AssemblerTest#0" />
+                <element signature="class#ArsenalPart#0;class#AssemblerTest#0" />
+                <element signature="e#1611#1612#0" expanded="true" />
+                <element signature="e#1661#1662#0" expanded="true" />
+                <element signature="class#EndurancePart#0;class#AssemblerTest#0" />
+                <element signature="e#2085#2086#0" expanded="true" />
+                <element signature="e#2130#2131#0" expanded="true" />
+                <element signature="class#ShellPart#0;class#AssemblerTest#0" />
+                <element signature="e#2405#2406#0" expanded="true" />
+                <element signature="e#2448#2449#0" expanded="true" />
+                <element signature="method#shouldArsenalModelGetModel#0;class#AssemblerTest#0" />
+                <element signature="method#addArsenalPartShouldAddCorrectly#0;class#AssemblerTest#0" />
+                <element signature="e#5559#5560#0" expanded="true" />
+                <element signature="e#5611#5612#0" expanded="true" />
+                <element signature="e#5715#5716#0" expanded="true" />
+                <element signature="e#5769#5770#0" expanded="true" />
+                <element signature="method#addEndurancePartShouldAddCorrectly#0;class#AssemblerTest#0" />
+                <element signature="method#addShellPartShouldAddCorrectly#0;class#AssemblerTest#0" />
+                <element signature="method#getTotalWeightShouldWorkCorrectly#0;class#AssemblerTest#0" />
+                <element signature="method#getTotalPriceShouldWorkCorrectly#0;class#AssemblerTest#0" />
+                <element signature="method#getAttackModifierShouldWorkCorrectly#0;class#AssemblerTest#0" />
+                <element signature="method#getTotalDefenseModificationShouldWorkCorrectly#0;class#AssemblerTest#0" />
+                <element signature="method#getTotalHitPointModificationShouldWorkCorrectly#0;class#AssemblerTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/panzer/models/miscellaneous/VehicleAssembler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-728">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="e#1995#1996#0" expanded="true" />
+                <element signature="e#2066#2067#0" expanded="true" />
+                <element signature="e#2128#2129#0" expanded="true" />
+                <element signature="e#2196#2197#0" expanded="true" />
+                <element signature="e#2266#2267#0" expanded="true" />
+                <element signature="e#2344#2345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/AssemblerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/panzer/parts/ArsenalPart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/panzer/parts/ShellPart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/panzer/entities/parts/ShellPart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/panzer/models/miscellaneous/VehicleAssembler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/panzer/AssemblerTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1401" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="panzer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="panzer" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="panzer" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="panzer" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="miscellaneous" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panzer - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="panzer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="panzer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AssemblerTest.shouldArsenalModelGetModel">
+    <configuration name="AssemblerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer" />
+      <option name="MAIN_CLASS_NAME" value="panzer.AssemblerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssemblerTest.addSameArsenal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer" />
+      <option name="MAIN_CLASS_NAME" value="panzer.AssemblerTest" />
+      <option name="METHOD_NAME" value="addSameArsenal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssemblerTest.constructorShouldBeCreatedSuccessful" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer" />
+      <option name="MAIN_CLASS_NAME" value="panzer.AssemblerTest" />
+      <option name="METHOD_NAME" value="constructorShouldBeCreatedSuccessful" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssemblerTest.getAssambelerNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer" />
+      <option name="MAIN_CLASS_NAME" value="panzer.AssemblerTest" />
+      <option name="METHOD_NAME" value="getAssambelerNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssemblerTest.shouldArsenalModelGetModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Panzer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="panzer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="panzer" />
+      <option name="MAIN_CLASS_NAME" value="panzer.AssemblerTest" />
+      <option name="METHOD_NAME" value="shouldArsenalModelGetModel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AssemblerTest.shouldArsenalModelGetModel" />
+        <item itemvalue="JUnit.AssemblerTest.constructorShouldBeCreatedSuccessful" />
+        <item itemvalue="JUnit.AssemblerTest" />
+        <item itemvalue="JUnit.AssemblerTest.addSameArsenal" />
+        <item itemvalue="JUnit.AssemblerTest.getAssambelerNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d5e6d84-1fca-450c-821f-f4e3236c0767" name="Default Changelist" comment="" />
+      <created>1555401538466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555401538466</updated>
+      <workItem from="1555401540062" duration="8730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AssemblerTest_getAssambelerNull - 2019.04.16 at 19h 24m 03s.xml">
+      <configuration name="AssemblerTest.getAssambelerNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssemblerTest - 2019.04.16 at 19h 26m 12s.xml">
+      <configuration name="AssemblerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssemblerTest_addSameArsenal - 2019.04.16 at 19h 30m 23s.xml">
+      <configuration name="AssemblerTest.addSameArsenal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssemblerTest_addSameArsenal - 2019.04.16 at 19h 30m 56s.xml">
+      <configuration name="AssemblerTest.addSameArsenal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssemblerTest_addSameArsenal - 2019.04.16 at 19h 31m 11s.xml">
+      <configuration name="AssemblerTest.addSameArsenal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssemblerTest - 2019.04.16 at 19h 45m 27s.xml">
+      <configuration name="AssemblerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssemblerTest_shouldArsenalModelGetModel - 2019.04.16 at 19h 45m 50s.xml">
+      <configuration name="AssemblerTest.shouldArsenalModelGetModel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssemblerTest_shouldArsenalModelGetModel - 2019.04.16 at 19h 48m 00s.xml">
+      <configuration name="AssemblerTest.shouldArsenalModelGetModel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssemblerTest_constructorShouldBeCreatedSuccessful - 2019.04.16 at 19h 51m 58s.xml">
+      <configuration name="AssemblerTest.constructorShouldBeCreatedSuccessful" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssemblerTest_shouldArsenalModelGetModel - 2019.04.16 at 19h 52m 35s.xml">
+      <configuration name="AssemblerTest.shouldArsenalModelGetModel" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8730000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23438767" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32976827" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38324422" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/panzer/entities/vehicles/Revenger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/panzer/entities/vehicles/VehiclesImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-434">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/panzer/contracts/Assembler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/panzer/entities/parts/ArsenalPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/panzer/entities/parts/PartsImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/panzer/entities/parts/EndurancePart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/panzer/entities/parts/ShellPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10692.16628/HeroRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2277" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/panzer/contracts/AttackModifyingPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/panzer/AssemblerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="119" column="12" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#PartsImpl#0;class#AssemblerTest#0" />
+            <element signature="class#ArsenalPart#0;class#AssemblerTest#0" />
+            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#1661#1662#0" expanded="true" />
+            <element signature="class#EndurancePart#0;class#AssemblerTest#0" />
+            <element signature="e#2085#2086#0" expanded="true" />
+            <element signature="e#2130#2131#0" expanded="true" />
+            <element signature="class#ShellPart#0;class#AssemblerTest#0" />
+            <element signature="e#2405#2406#0" expanded="true" />
+            <element signature="e#2448#2449#0" expanded="true" />
+            <element signature="method#shouldArsenalModelGetModel#0;class#AssemblerTest#0" />
+            <element signature="method#addArsenalPartShouldAddCorrectly#0;class#AssemblerTest#0" />
+            <element signature="e#5559#5560#0" expanded="true" />
+            <element signature="e#5611#5612#0" expanded="true" />
+            <element signature="e#5715#5716#0" expanded="true" />
+            <element signature="e#5769#5770#0" expanded="true" />
+            <element signature="method#addEndurancePartShouldAddCorrectly#0;class#AssemblerTest#0" />
+            <element signature="method#addShellPartShouldAddCorrectly#0;class#AssemblerTest#0" />
+            <element signature="method#getTotalWeightShouldWorkCorrectly#0;class#AssemblerTest#0" />
+            <element signature="method#getTotalPriceShouldWorkCorrectly#0;class#AssemblerTest#0" />
+            <element signature="method#getAttackModifierShouldWorkCorrectly#0;class#AssemblerTest#0" />
+            <element signature="method#getTotalDefenseModificationShouldWorkCorrectly#0;class#AssemblerTest#0" />
+            <element signature="method#getTotalHitPointModificationShouldWorkCorrectly#0;class#AssemblerTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/panzer/models/miscellaneous/VehicleAssembler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#1995#1996#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+            <element signature="e#2128#2129#0" expanded="true" />
+            <element signature="e#2196#2197#0" expanded="true" />
+            <element signature="e#2266#2267#0" expanded="true" />
+            <element signature="e#2344#2345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

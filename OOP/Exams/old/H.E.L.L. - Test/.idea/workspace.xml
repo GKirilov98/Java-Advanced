@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81e3258f-41fc-49fd-9def-653bbe79e959" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hell/entities/miscellaneous/HeroInventory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hell/entities/miscellaneous/HeroInventoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="method#setUp#0;class#HeroInventoryTest#0" />
+                <element signature="method#checkRecipeItemSuccessCreated#0;class#HeroInventoryTest#0" />
+                <element signature="method#checkCommonItemSuccessCreated#0;class#HeroInventoryTest#0" />
+                <element signature="method#getTotalStrengthBonusForNull#0;class#HeroInventoryTest#0" />
+                <element signature="method#getTotalStrengthBonusShouldWorkCorrectly#0;class#HeroInventoryTest#0" />
+                <element signature="method#getTotalAgilityBonusShouldWorkForOneItem#0;class#HeroInventoryTest#0" />
+                <element signature="method#getTotalIntelligenceBonusShouldWorkForOneItem#0;class#HeroInventoryTest#0" />
+                <element signature="method#getTotalHitPointsBonusShouldWorkCorrectlyForOneItem#0;class#HeroInventoryTest#0" />
+                <element signature="method#getTotalDamageBonusWorkCorrectlyForOneItem#0;class#HeroInventoryTest#0" />
+                <element signature="method#addRecipeItemShouldWorkCorrectlyForOneRecipe#0;class#HeroInventoryTest#0" />
+                <element signature="method#addRecipeItemShouldWorkCorrectlyForOneRecipeNullStringName#0;class#HeroInventoryTest#0" />
+                <element signature="method#addRecipeItemShouldWorkCorrectlyForOneRecipeOtherNameItem#0;class#HeroInventoryTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/hell/entities/miscellaneous/HeroInventoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hell/entities/miscellaneous/HeroInventory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1401" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="H.E.L.L. - Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H.E.L.L. - Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H.E.L.L. - Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H.E.L.L. - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H.E.L.L. - Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H.E.L.L. - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H.E.L.L. - Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H.E.L.L. - Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hell.entities.miscellaneous" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HeroInventoryTest.addCommonItemShouldWorkCorrectly">
+    <configuration name="HeroInventoryTest.addCommonItemShouldWorkCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="H.E.L.L. - Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hell.entities.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hell.entities.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="hell.entities.miscellaneous.HeroInventoryTest" />
+      <option name="METHOD_NAME" value="addCommonItemShouldWorkCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroInventoryTest.addRecipeItemShouldWorkCorrectlyForOneRecipeNullStringName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="H.E.L.L. - Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hell.entities.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hell.entities.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="hell.entities.miscellaneous.HeroInventoryTest" />
+      <option name="METHOD_NAME" value="addRecipeItemShouldWorkCorrectlyForOneRecipeNullStringName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroInventoryTest.addRecipeItemShouldWorkCorrectlyForOneRecipeOtherNameItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="H.E.L.L. - Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hell.entities.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hell.entities.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="hell.entities.miscellaneous.HeroInventoryTest" />
+      <option name="METHOD_NAME" value="addRecipeItemShouldWorkCorrectlyForOneRecipeOtherNameItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroInventoryTest.checkCommonItemSuccessCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="H.E.L.L. - Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hell.entities.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hell.entities.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="hell.entities.miscellaneous.HeroInventoryTest" />
+      <option name="METHOD_NAME" value="checkCommonItemSuccessCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroInventoryTest.checkRecipeItemSuccessCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="H.E.L.L. - Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hell.entities.miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hell.entities.miscellaneous" />
+      <option name="MAIN_CLASS_NAME" value="hell.entities.miscellaneous.HeroInventoryTest" />
+      <option name="METHOD_NAME" value="checkRecipeItemSuccessCreated" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HeroInventoryTest.addCommonItemShouldWorkCorrectly" />
+        <item itemvalue="JUnit.HeroInventoryTest.checkCommonItemSuccessCreated" />
+        <item itemvalue="JUnit.HeroInventoryTest.checkRecipeItemSuccessCreated" />
+        <item itemvalue="JUnit.HeroInventoryTest.addRecipeItemShouldWorkCorrectlyForOneRecipeOtherNameItem" />
+        <item itemvalue="JUnit.HeroInventoryTest.addRecipeItemShouldWorkCorrectlyForOneRecipeNullStringName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e3258f-41fc-49fd-9def-653bbe79e959" name="Default Changelist" comment="" />
+      <created>1555442171843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555442171843</updated>
+      <workItem from="1555442181622" duration="4195000" />
+      <workItem from="1555485741105" duration="2993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HeroInventoryTest_addRecipeItemShouldWorkCorrectlyForOneRecipeNullStringName - 2019.04.16 at 23h 13m 15s.xml">
+      <configuration name="HeroInventoryTest.addRecipeItemShouldWorkCorrectlyForOneRecipeNullStringName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeroInventoryTest_addRecipeItemShouldWorkCorrectlyForOneRecipeOtherNameItem - 2019.04.16 at 23h 14m 10s.xml">
+      <configuration name="HeroInventoryTest.addRecipeItemShouldWorkCorrectlyForOneRecipeOtherNameItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeroInventoryTest_checkRecipeItemSuccessCreated - 2019.04.16 at 23h 17m 15s.xml">
+      <configuration name="HeroInventoryTest.checkRecipeItemSuccessCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeroInventoryTest_checkCommonItemSuccessCreated - 2019.04.16 at 23h 18m 04s.xml">
+      <configuration name="HeroInventoryTest.checkCommonItemSuccessCreated" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeroInventoryTest_addCommonItemShouldWorkCorrectly - 2019.04.17 at 11h 13m 15s.xml">
+      <configuration name="HeroInventoryTest.addCommonItemShouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeroInventoryTest_addCommonItemShouldWorkCorrectly - 2019.04.17 at 11h 14m 38s.xml">
+      <configuration name="HeroInventoryTest.addCommonItemShouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeroInventoryTest_addCommonItemShouldWorkCorrectly - 2019.04.17 at 11h 15m 13s.xml">
+      <configuration name="HeroInventoryTest.addCommonItemShouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeroInventoryTest_addCommonItemShouldWorkCorrectly - 2019.04.17 at 11h 17m 52s.xml">
+      <configuration name="HeroInventoryTest.addCommonItemShouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeroInventoryTest_addCommonItemShouldWorkCorrectly - 2019.04.17 at 11h 25m 31s.xml">
+      <configuration name="HeroInventoryTest.addCommonItemShouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HeroInventoryTest_addCommonItemShouldWorkCorrectly - 2019.04.17 at 11h 31m 32s.xml">
+      <configuration name="HeroInventoryTest.addCommonItemShouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7188000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18085968" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29590017" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399287" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hell/interfaces/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/internal/util/ObjectMethodsGuru.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/internal/creation/cglib/AcrossJVMSerializationFeature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/internal/creation/settings/CreationSettings.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#2955#2956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/internal/creation/cglib/DelegatingMockitoMethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#435#436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/internal/creation/cglib/CGLIBHacker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/internal/creation/cglib/MethodInterceptorFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hell/interfaces/Recipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hell/entities/miscellaneous/HeroInventoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="method#setUp#0;class#HeroInventoryTest#0" />
+            <element signature="method#checkRecipeItemSuccessCreated#0;class#HeroInventoryTest#0" />
+            <element signature="method#checkCommonItemSuccessCreated#0;class#HeroInventoryTest#0" />
+            <element signature="method#getTotalStrengthBonusForNull#0;class#HeroInventoryTest#0" />
+            <element signature="method#getTotalStrengthBonusShouldWorkCorrectly#0;class#HeroInventoryTest#0" />
+            <element signature="method#getTotalAgilityBonusShouldWorkForOneItem#0;class#HeroInventoryTest#0" />
+            <element signature="method#getTotalIntelligenceBonusShouldWorkForOneItem#0;class#HeroInventoryTest#0" />
+            <element signature="method#getTotalHitPointsBonusShouldWorkCorrectlyForOneItem#0;class#HeroInventoryTest#0" />
+            <element signature="method#getTotalDamageBonusWorkCorrectlyForOneItem#0;class#HeroInventoryTest#0" />
+            <element signature="method#addRecipeItemShouldWorkCorrectlyForOneRecipe#0;class#HeroInventoryTest#0" />
+            <element signature="method#addRecipeItemShouldWorkCorrectlyForOneRecipeNullStringName#0;class#HeroInventoryTest#0" />
+            <element signature="method#addRecipeItemShouldWorkCorrectlyForOneRecipeOtherNameItem#0;class#HeroInventoryTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hell/entities/miscellaneous/HeroInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
